@@ -3,4 +3,5 @@
 Course Material for Machine Learning - @ SMIA
 
 
-- [01_introduzione](01_introduction/01_introduction.slides.html)
+- [01_introduction](01_introduction/01_introduction.slides.html)
+- [02_math_recap_linear_algebra](02_math_recap_linear_algebra/02_math_recap_linear_algebra.slides.html)
